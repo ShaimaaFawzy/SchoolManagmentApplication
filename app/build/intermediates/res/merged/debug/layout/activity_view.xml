@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/myLayout"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:stretchColumns="0" >
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="10dp"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_x="30dp"
+            android:layout_y="100dp"
+            android:text="search by : " />
+
+        <RadioGroup
+            android:id="@+id/musicRadioGroup"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+            <RadioButton
+                android:id="@+id/rdid"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Student ID"
+                android:textSize="18sp" />
+
+            <RadioButton
+                android:id="@+id/rdname"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Student Name"
+                android:textSize="18sp" />
+        </RadioGroup>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="10dp"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:id="@+id/shby"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_x="30dp"
+            android:layout_y="100dp"
+            android:text="Student Name :" />
+
+        <EditText
+            android:id="@+id/editname"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:ems="10"
+            android:visibility="invisible" >
+
+            <requestFocus />
+        </EditText>
+
+        <EditText
+            android:id="@+id/editid"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:ems="10"
+            android:visibility="invisible" >
+
+            <requestFocus />
+        </EditText>
+
+        
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linStud"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="10dp"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_x="30dp"
+            android:layout_y="100dp"
+            android:text="Student Name : " />
+
+        <TextView
+            android:id="@+id/txtname"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linid"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="10dp"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_x="30dp"
+            android:layout_y="50dp"
+            android:text="ID Number : " />
+
+        <TextView
+            android:id="@+id/txtid"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="10dp"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_x="30dp"
+            android:layout_y="150dp"
+            android:text="Class :" />
+
+        <TextView
+            android:id="@+id/txtclass"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="10dp"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Student Type : " />
+
+        <TextView
+            android:id="@+id/txttype"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="10dp"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Special Case : " />
+
+        <TextView
+            android:id="@+id/txtcase"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lin1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="10dp"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:id="@+id/prname"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Parent Name : " />
+
+        <TextView
+            android:id="@+id/txtprantname"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lin2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="10dp"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:id="@+id/prphone"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_x="30dp"
+            android:layout_y="50dp"
+            android:text="Parent Phone Number : " />
+
+        <TextView
+            android:id="@+id/perntnumber"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lin3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="10dp"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:id="@+id/busid"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_x="30dp"
+            android:layout_y="50dp"
+            android:text="Bus Number : " />
+
+        <TextView
+            android:id="@+id/textbus"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+<LinearLayout
+        android:id="@+id/lin4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="10dp"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:id="@+id/driverid"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_x="30dp"
+            android:layout_y="50dp"
+            android:text="Driver Id Number  : " />
+
+        <TextView
+            android:id="@+id/texdriver"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+    <LinearLayout 
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <Button
+            android:id="@+id/btnSearchid"
+            android:layout_width="70dp"
+            android:layout_height="40dp"
+            android:text="Search"
+            android:textSize="12sp"
+            android:visibility="invisible" />
+
+        <Button
+            android:id="@+id/btnSearchname"
+            android:layout_width="70dp"
+            android:layout_height="40dp"
+            android:text="Search"
+            android:textSize="12sp"
+            android:visibility="invisible" />
+
+        <Button
+            android:id="@+id/btnDeletename"
+            android:layout_width="70dp"
+            android:layout_height="40dp"
+            android:text="Report"
+            android:textSize="12sp"
+            android:visibility="visible" />
+          <Button
+        android:id="@+id/btncal"
+        android:layout_width="70dp"
+        android:layout_height="40dp"
+        android:text="Call"
+        android:textSize="12sp"
+        android:visibility="visible" />
+        
+    </LinearLayout>
+  
+
+</LinearLayout>

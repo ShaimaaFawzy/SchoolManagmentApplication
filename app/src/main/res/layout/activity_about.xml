@@ -1,0 +1,81 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#1f2b38"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context="com.error_studio.About" >
+
+    <LinearLayout
+        android:id="@+id/linearLayout1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"
+        android:gravity="center"
+        android:orientation="vertical" >
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="150dp"
+            android:src="@drawable/abo" />
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="E R R O R   S T U D I O ;"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textColor="#FFE12C2C" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/linearLayout1"
+        android:layout_marginLeft="10dp"
+        android:text="Error - Studio&apos;s mission is to deliver maximum business value to its customers by designing, developing, implementing and maintaining efficient and high quality software solutions aligned with their most essential business needs. Our values include client and employee satisfaction, social and business responsibility, ongoing efforts to foster the development of healthy natural and business environments, as well as the use of industry&apos;s best practices to unleash the potential of our employees, remove communication barriers, create trust and increase operational efficiency.
+"
+        android:textColor="#FFFFFF"
+        android:textSize="11sp" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+        <ImageView
+            android:id="@+id/facebook"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:src="@drawable/facebook" />
+
+        <ImageView
+            android:id="@+id/tw"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:src="@drawable/twitter" />
+
+        <ImageView
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:src="@drawable/linkedin" />
+
+        <ImageView
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:src="@drawable/wordpress" />
+
+        <ImageView
+            android:id="@+id/you"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:src="@drawable/youtube" />
+    </LinearLayout>
+
+</LinearLayout>

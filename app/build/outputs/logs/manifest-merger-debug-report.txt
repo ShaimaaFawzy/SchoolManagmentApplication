@@ -1,0 +1,115 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/engsoha/Downloads/School-App/app/src/main/AndroidManifest.xml:2:1-62:12
+	package
+		ADDED from /home/engsoha/Downloads/School-App/app/src/main/AndroidManifest.xml:3:5-32
+		INJECTED from /home/engsoha/Downloads/School-App/app/src/main/AndroidManifest.xml
+		INJECTED from /home/engsoha/Downloads/School-App/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/engsoha/Downloads/School-App/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /home/engsoha/Downloads/School-App/app/src/main/AndroidManifest.xml
+		INJECTED from /home/engsoha/Downloads/School-App/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /home/engsoha/Downloads/School-App/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /home/engsoha/Downloads/School-App/app/src/main/AndroidManifest.xml
+		INJECTED from /home/engsoha/Downloads/School-App/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/engsoha/Downloads/School-App/app/src/main/AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from /home/engsoha/Downloads/School-App/app/src/main/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:21.0.0] /home/engsoha/Downloads/School-App/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.0/AndroidManifest.xml:15:5-42
+MERGED from [com.android.support:support-v4:21.0.0] /home/engsoha/Downloads/School-App/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/AndroidManifest.xml:15:5-42
+MERGED from [com.android.support:support-v4:21.0.0] /home/engsoha/Downloads/School-App/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/AndroidManifest.xml:15:5-42
+	android:targetSdkVersion
+		ADDED from /home/engsoha/Downloads/School-App/app/src/main/AndroidManifest.xml:9:9-38
+		INJECTED from /home/engsoha/Downloads/School-App/app/src/main/AndroidManifest.xml
+		INJECTED from /home/engsoha/Downloads/School-App/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /home/engsoha/Downloads/School-App/app/src/main/AndroidManifest.xml:8:9-34
+		INJECTED from /home/engsoha/Downloads/School-App/app/src/main/AndroidManifest.xml
+		INJECTED from /home/engsoha/Downloads/School-App/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.CALL_PHONE
+ADDED from /home/engsoha/Downloads/School-App/app/src/main/AndroidManifest.xml:11:5-69
+	android:name
+		ADDED from /home/engsoha/Downloads/School-App/app/src/main/AndroidManifest.xml:11:22-66
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /home/engsoha/Downloads/School-App/app/src/main/AndroidManifest.xml:12:5-75
+	android:name
+		ADDED from /home/engsoha/Downloads/School-App/app/src/main/AndroidManifest.xml:12:22-72
+application
+ADDED from /home/engsoha/Downloads/School-App/app/src/main/AndroidManifest.xml:14:5-60:19
+MERGED from [com.android.support:appcompat-v7:21.0.0] /home/engsoha/Downloads/School-App/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.0/AndroidManifest.xml:16:5-19
+MERGED from [com.android.support:support-v4:21.0.0] /home/engsoha/Downloads/School-App/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/AndroidManifest.xml:16:5-19
+MERGED from [com.android.support:support-v4:21.0.0] /home/engsoha/Downloads/School-App/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/AndroidManifest.xml:16:5-19
+	android:label
+		ADDED from /home/engsoha/Downloads/School-App/app/src/main/AndroidManifest.xml:17:9-41
+	android:allowBackup
+		ADDED from /home/engsoha/Downloads/School-App/app/src/main/AndroidManifest.xml:15:9-35
+	android:icon
+		ADDED from /home/engsoha/Downloads/School-App/app/src/main/AndroidManifest.xml:16:9-45
+	android:theme
+		ADDED from /home/engsoha/Downloads/School-App/app/src/main/AndroidManifest.xml:18:9-40
+activity#school.management.MainActivity
+ADDED from /home/engsoha/Downloads/School-App/app/src/main/AndroidManifest.xml:19:9-22:20
+	android:label
+		ADDED from /home/engsoha/Downloads/School-App/app/src/main/AndroidManifest.xml:21:13-45
+	android:name
+		ADDED from /home/engsoha/Downloads/School-App/app/src/main/AndroidManifest.xml:20:13-41
+activity#school.management.About
+ADDED from /home/engsoha/Downloads/School-App/app/src/main/AndroidManifest.xml:23:9-26:20
+	android:label
+		ADDED from /home/engsoha/Downloads/School-App/app/src/main/AndroidManifest.xml:25:13-45
+	android:name
+		ADDED from /home/engsoha/Downloads/School-App/app/src/main/AndroidManifest.xml:24:13-34
+activity#school.management.Splashpage
+ADDED from /home/engsoha/Downloads/School-App/app/src/main/AndroidManifest.xml:27:9-35:20
+	android:label
+		ADDED from /home/engsoha/Downloads/School-App/app/src/main/AndroidManifest.xml:29:13-45
+	android:name
+		ADDED from /home/engsoha/Downloads/School-App/app/src/main/AndroidManifest.xml:28:13-39
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/engsoha/Downloads/School-App/app/src/main/AndroidManifest.xml:30:13-34:29
+action#android.intent.action.MAIN
+ADDED from /home/engsoha/Downloads/School-App/app/src/main/AndroidManifest.xml:31:17-69
+	android:name
+		ADDED from /home/engsoha/Downloads/School-App/app/src/main/AndroidManifest.xml:31:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/engsoha/Downloads/School-App/app/src/main/AndroidManifest.xml:33:17-77
+	android:name
+		ADDED from /home/engsoha/Downloads/School-App/app/src/main/AndroidManifest.xml:33:27-74
+activity#school.management.Student
+ADDED from /home/engsoha/Downloads/School-App/app/src/main/AndroidManifest.xml:36:9-39:20
+	android:label
+		ADDED from /home/engsoha/Downloads/School-App/app/src/main/AndroidManifest.xml:38:13-59
+	android:name
+		ADDED from /home/engsoha/Downloads/School-App/app/src/main/AndroidManifest.xml:37:13-36
+activity#school.management.View
+ADDED from /home/engsoha/Downloads/School-App/app/src/main/AndroidManifest.xml:40:9-43:20
+	android:label
+		ADDED from /home/engsoha/Downloads/School-App/app/src/main/AndroidManifest.xml:42:13-56
+	android:name
+		ADDED from /home/engsoha/Downloads/School-App/app/src/main/AndroidManifest.xml:41:13-33
+activity#school.management.ViewActivity
+ADDED from /home/engsoha/Downloads/School-App/app/src/main/AndroidManifest.xml:44:9-47:20
+	android:label
+		ADDED from /home/engsoha/Downloads/School-App/app/src/main/AndroidManifest.xml:46:13-56
+	android:name
+		ADDED from /home/engsoha/Downloads/School-App/app/src/main/AndroidManifest.xml:45:13-41
+activity#school.management.Test
+ADDED from /home/engsoha/Downloads/School-App/app/src/main/AndroidManifest.xml:48:9-51:20
+	android:label
+		ADDED from /home/engsoha/Downloads/School-App/app/src/main/AndroidManifest.xml:50:13-56
+	android:name
+		ADDED from /home/engsoha/Downloads/School-App/app/src/main/AndroidManifest.xml:49:13-33
+activity#school.management.Update
+ADDED from /home/engsoha/Downloads/School-App/app/src/main/AndroidManifest.xml:52:9-55:20
+	android:label
+		ADDED from /home/engsoha/Downloads/School-App/app/src/main/AndroidManifest.xml:54:13-58
+	android:name
+		ADDED from /home/engsoha/Downloads/School-App/app/src/main/AndroidManifest.xml:53:13-35
+activity#school.management.Delete
+ADDED from /home/engsoha/Downloads/School-App/app/src/main/AndroidManifest.xml:56:9-59:20
+	android:label
+		ADDED from /home/engsoha/Downloads/School-App/app/src/main/AndroidManifest.xml:58:13-58
+	android:name
+		ADDED from /home/engsoha/Downloads/School-App/app/src/main/AndroidManifest.xml:57:13-35

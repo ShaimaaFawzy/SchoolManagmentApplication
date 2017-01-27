@@ -1,0 +1,314 @@
+[
+    {
+        "merged": "/home/engsoha/Downloads/School-App/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/home/engsoha/Downloads/School-App/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.0/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/home/engsoha/Downloads/School-App/app/build/intermediates/res/merged/debug/drawable/achievemen.png",
+        "source": "/home/engsoha/Downloads/School-App/app/src/main/res/drawable/achievemen.png"
+    },
+    {
+        "merged": "/home/engsoha/Downloads/School-App/app/build/intermediates/res/merged/debug/drawable/abo.png",
+        "source": "/home/engsoha/Downloads/School-App/app/src/main/res/drawable/abo.png"
+    },
+    {
+        "merged": "/home/engsoha/Downloads/School-App/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/home/engsoha/Downloads/School-App/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.0/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/home/engsoha/Downloads/School-App/app/build/intermediates/res/merged/debug/drawable/twitter.png",
+        "source": "/home/engsoha/Downloads/School-App/app/src/main/res/drawable/twitter.png"
+    },
+    {
+        "merged": "/home/engsoha/Downloads/School-App/app/build/intermediates/res/merged/debug/drawable/about.png",
+        "source": "/home/engsoha/Downloads/School-App/app/src/main/res/drawable/about.png"
+    },
+    {
+        "merged": "/home/engsoha/Downloads/School-App/D:\\MAL\\SchoolManagement\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\linkedin.png",
+        "source": "/home/engsoha/Downloads/School-App/D:\\MAL\\SchoolManagement\\app\\src\\main\\res\\drawable\\linkedin.png"
+    },
+    {
+        "merged": "/home/engsoha/Downloads/School-App/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/home/engsoha/Downloads/School-App/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.0/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/home/engsoha/Downloads/School-App/C:\\git\\School-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/home/engsoha/Downloads/School-App/C:\\git\\School-App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/home/engsoha/Downloads/School-App/C:\\git\\School-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sp.png",
+        "source": "/home/engsoha/Downloads/School-App/C:\\git\\School-App\\app\\src\\main\\res\\drawable\\sp.png"
+    },
+    {
+        "merged": "/home/engsoha/Downloads/School-App/D:\\MAL\\SchoolManagement\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\about.png",
+        "source": "/home/engsoha/Downloads/School-App/D:\\MAL\\SchoolManagement\\app\\src\\main\\res\\drawable\\about.png"
+    },
+    {
+        "merged": "/home/engsoha/Downloads/School-App/D:\\MAL\\SchoolManagement\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "/home/engsoha/Downloads/School-App/D:\\MAL\\SchoolManagement\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/home/engsoha/Downloads/School-App/C:\\git\\School-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "/home/engsoha/Downloads/School-App/C:\\git\\School-App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/home/engsoha/Downloads/School-App/D:\\MAL\\SchoolManagement\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "/home/engsoha/Downloads/School-App/D:\\MAL\\SchoolManagement\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/home/engsoha/Downloads/School-App/D:\\MAL\\SchoolManagement\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sp.png",
+        "source": "/home/engsoha/Downloads/School-App/D:\\MAL\\SchoolManagement\\app\\src\\main\\res\\drawable\\sp.png"
+    },
+    {
+        "merged": "/home/engsoha/Downloads/School-App/D:\\MAL\\SchoolManagement\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "/home/engsoha/Downloads/School-App/D:\\MAL\\SchoolManagement\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/home/engsoha/Downloads/School-App/D:\\MAL\\SchoolManagement\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "/home/engsoha/Downloads/School-App/D:\\MAL\\SchoolManagement\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/home/engsoha/Downloads/School-App/D:\\MAL\\SchoolManagement\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\twitter.png",
+        "source": "/home/engsoha/Downloads/School-App/D:\\MAL\\SchoolManagement\\app\\src\\main\\res\\drawable\\twitter.png"
+    },
+    {
+        "merged": "/home/engsoha/Downloads/School-App/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/home/engsoha/Downloads/School-App/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.0/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/home/engsoha/Downloads/School-App/C:\\git\\School-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "/home/engsoha/Downloads/School-App/C:\\git\\School-App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/home/engsoha/Downloads/School-App/D:\\MAL\\SchoolManagement\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\youtube.png",
+        "source": "/home/engsoha/Downloads/School-App/D:\\MAL\\SchoolManagement\\app\\src\\main\\res\\drawable\\youtube.png"
+    },
+    {
+        "merged": "/home/engsoha/Downloads/School-App/C:\\git\\School-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\youtube.png",
+        "source": "/home/engsoha/Downloads/School-App/C:\\git\\School-App\\app\\src\\main\\res\\drawable\\youtube.png"
+    },
+    {
+        "merged": "/home/engsoha/Downloads/School-App/D:\\MAL\\SchoolManagement\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wordpress.png",
+        "source": "/home/engsoha/Downloads/School-App/D:\\MAL\\SchoolManagement\\app\\src\\main\\res\\drawable\\wordpress.png"
+    },
+    {
+        "merged": "/home/engsoha/Downloads/School-App/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/home/engsoha/Downloads/School-App/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.0/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/home/engsoha/Downloads/School-App/app/build/intermediates/res/merged/debug/drawable/facebook.png",
+        "source": "/home/engsoha/Downloads/School-App/app/src/main/res/drawable/facebook.png"
+    },
+    {
+        "merged": "/home/engsoha/Downloads/School-App/C:\\git\\School-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg.png",
+        "source": "/home/engsoha/Downloads/School-App/C:\\git\\School-App\\app\\src\\main\\res\\drawable\\bg.png"
+    },
+    {
+        "merged": "/home/engsoha/Downloads/School-App/C:\\git\\School-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\facebook.png",
+        "source": "/home/engsoha/Downloads/School-App/C:\\git\\School-App\\app\\src\\main\\res\\drawable\\facebook.png"
+    },
+    {
+        "merged": "/home/engsoha/Downloads/School-App/C:\\git\\School-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\twitter.png",
+        "source": "/home/engsoha/Downloads/School-App/C:\\git\\School-App\\app\\src\\main\\res\\drawable\\twitter.png"
+    },
+    {
+        "merged": "/home/engsoha/Downloads/School-App/C:\\git\\School-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "/home/engsoha/Downloads/School-App/C:\\git\\School-App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/home/engsoha/Downloads/School-App/app/build/intermediates/res/merged/debug/drawable/sp.png",
+        "source": "/home/engsoha/Downloads/School-App/app/src/main/res/drawable/sp.png"
+    },
+    {
+        "merged": "/home/engsoha/Downloads/School-App/D:\\MAL\\SchoolManagement\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "/home/engsoha/Downloads/School-App/D:\\MAL\\SchoolManagement\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/home/engsoha/Downloads/School-App/C:\\git\\School-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "/home/engsoha/Downloads/School-App/C:\\git\\School-App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/home/engsoha/Downloads/School-App/D:\\MAL\\SchoolManagement\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "/home/engsoha/Downloads/School-App/D:\\MAL\\SchoolManagement\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/home/engsoha/Downloads/School-App/D:\\MAL\\SchoolManagement\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\facebook.png",
+        "source": "/home/engsoha/Downloads/School-App/D:\\MAL\\SchoolManagement\\app\\src\\main\\res\\drawable\\facebook.png"
+    },
+    {
+        "merged": "/home/engsoha/Downloads/School-App/C:\\git\\School-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "/home/engsoha/Downloads/School-App/C:\\git\\School-App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/home/engsoha/Downloads/School-App/app/build/intermediates/res/merged/debug/drawable/bg.png",
+        "source": "/home/engsoha/Downloads/School-App/app/src/main/res/drawable/bg.png"
+    },
+    {
+        "merged": "/home/engsoha/Downloads/School-App/D:\\MAL\\SchoolManagement\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "/home/engsoha/Downloads/School-App/D:\\MAL\\SchoolManagement\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.0\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/engsoha/Downloads/School-App/D:\\MAL\\SchoolManagement\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abo.png",
+        "source": "/home/engsoha/Downloads/School-App/D:\\MAL\\SchoolManagement\\app\\src\\main\\res\\drawable\\abo.png"
+    },
+    {
+        "merged": "/home/engsoha/Downloads/School-App/app/build/intermediates/res/merged/debug/drawable/youtube.png",
+        "source": "/home/engsoha/Downloads/School-App/app/src/main/res/drawable/youtube.png"
+    },
+    {
+        "merged": "/home/engsoha/Downloads/School-App/C:\\git\\School-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "/home/engsoha/Downloads/School-App/C:\\git\\School-App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/home/engsoha/Downloads/School-App/C:\\git\\School-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "/home/engsoha/Downloads/School-App/C:\\git\\School-App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/home/engsoha/Downloads/School-App/D:\\MAL\\SchoolManagement\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "/home/engsoha/Downloads/School-App/D:\\MAL\\SchoolManagement\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/home/engsoha/Downloads/School-App/D:\\MAL\\SchoolManagement\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/home/engsoha/Downloads/School-App/D:\\MAL\\SchoolManagement\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/home/engsoha/Downloads/School-App/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/home/engsoha/Downloads/School-App/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.0/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/home/engsoha/Downloads/School-App/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/home/engsoha/Downloads/School-App/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.0/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/home/engsoha/Downloads/School-App/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/home/engsoha/Downloads/School-App/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.0/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/home/engsoha/Downloads/School-App/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/home/engsoha/Downloads/School-App/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.0/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/home/engsoha/Downloads/School-App/D:\\MAL\\SchoolManagement\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "/home/engsoha/Downloads/School-App/D:\\MAL\\SchoolManagement\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/home/engsoha/Downloads/School-App/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/home/engsoha/Downloads/School-App/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.0/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/home/engsoha/Downloads/School-App/D:\\MAL\\SchoolManagement\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "/home/engsoha/Downloads/School-App/D:\\MAL\\SchoolManagement\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/home/engsoha/Downloads/School-App/app/build/intermediates/res/merged/debug/drawable/aboutlogo.png",
+        "source": "/home/engsoha/Downloads/School-App/app/src/main/res/drawable/aboutlogo.png"
+    },
+    {
+        "merged": "/home/engsoha/Downloads/School-App/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/home/engsoha/Downloads/School-App/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.0/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/home/engsoha/Downloads/School-App/app/build/intermediates/res/merged/debug/drawable/wordpress.png",
+        "source": "/home/engsoha/Downloads/School-App/app/src/main/res/drawable/wordpress.png"
+    },
+    {
+        "merged": "/home/engsoha/Downloads/School-App/C:\\git\\School-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\achievemen.png",
+        "source": "/home/engsoha/Downloads/School-App/C:\\git\\School-App\\app\\src\\main\\res\\drawable\\achievemen.png"
+    },
+    {
+        "merged": "/home/engsoha/Downloads/School-App/app/build/intermediates/res/merged/debug/drawable/linkedin.png",
+        "source": "/home/engsoha/Downloads/School-App/app/src/main/res/drawable/linkedin.png"
+    },
+    {
+        "merged": "/home/engsoha/Downloads/School-App/C:\\git\\School-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wordpress.png",
+        "source": "/home/engsoha/Downloads/School-App/C:\\git\\School-App\\app\\src\\main\\res\\drawable\\wordpress.png"
+    },
+    {
+        "merged": "/home/engsoha/Downloads/School-App/C:\\git\\School-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\aboutlogo.png",
+        "source": "/home/engsoha/Downloads/School-App/C:\\git\\School-App\\app\\src\\main\\res\\drawable\\aboutlogo.png"
+    },
+    {
+        "merged": "/home/engsoha/Downloads/School-App/C:\\git\\School-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abo.png",
+        "source": "/home/engsoha/Downloads/School-App/C:\\git\\School-App\\app\\src\\main\\res\\drawable\\abo.png"
+    },
+    {
+        "merged": "/home/engsoha/Downloads/School-App/C:\\git\\School-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "/home/engsoha/Downloads/School-App/C:\\git\\School-App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/home/engsoha/Downloads/School-App/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/home/engsoha/Downloads/School-App/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.0/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/home/engsoha/Downloads/School-App/C:\\git\\School-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "/home/engsoha/Downloads/School-App/C:\\git\\School-App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.0\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/engsoha/Downloads/School-App/C:\\git\\School-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\about.png",
+        "source": "/home/engsoha/Downloads/School-App/C:\\git\\School-App\\app\\src\\main\\res\\drawable\\about.png"
+    },
+    {
+        "merged": "/home/engsoha/Downloads/School-App/D:\\MAL\\SchoolManagement\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "/home/engsoha/Downloads/School-App/D:\\MAL\\SchoolManagement\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/home/engsoha/Downloads/School-App/C:\\git\\School-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "/home/engsoha/Downloads/School-App/C:\\git\\School-App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/home/engsoha/Downloads/School-App/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/home/engsoha/Downloads/School-App/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.0/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/home/engsoha/Downloads/School-App/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/home/engsoha/Downloads/School-App/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.0/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/engsoha/Downloads/School-App/D:\\MAL\\SchoolManagement\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\clients.png",
+        "source": "/home/engsoha/Downloads/School-App/D:\\MAL\\SchoolManagement\\app\\src\\main\\res\\drawable\\clients.png"
+    },
+    {
+        "merged": "/home/engsoha/Downloads/School-App/D:\\MAL\\SchoolManagement\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg.png",
+        "source": "/home/engsoha/Downloads/School-App/D:\\MAL\\SchoolManagement\\app\\src\\main\\res\\drawable\\bg.png"
+    },
+    {
+        "merged": "/home/engsoha/Downloads/School-App/D:\\MAL\\SchoolManagement\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "/home/engsoha/Downloads/School-App/D:\\MAL\\SchoolManagement\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/home/engsoha/Downloads/School-App/D:\\MAL\\SchoolManagement\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\aboutlogo.png",
+        "source": "/home/engsoha/Downloads/School-App/D:\\MAL\\SchoolManagement\\app\\src\\main\\res\\drawable\\aboutlogo.png"
+    },
+    {
+        "merged": "/home/engsoha/Downloads/School-App/C:\\git\\School-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "/home/engsoha/Downloads/School-App/C:\\git\\School-App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/home/engsoha/Downloads/School-App/app/build/intermediates/res/merged/debug/drawable/clients.png",
+        "source": "/home/engsoha/Downloads/School-App/app/src/main/res/drawable/clients.png"
+    },
+    {
+        "merged": "/home/engsoha/Downloads/School-App/D:\\MAL\\SchoolManagement\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "/home/engsoha/Downloads/School-App/D:\\MAL\\SchoolManagement\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/home/engsoha/Downloads/School-App/D:\\MAL\\SchoolManagement\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\achievemen.png",
+        "source": "/home/engsoha/Downloads/School-App/D:\\MAL\\SchoolManagement\\app\\src\\main\\res\\drawable\\achievemen.png"
+    },
+    {
+        "merged": "/home/engsoha/Downloads/School-App/C:\\git\\School-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "/home/engsoha/Downloads/School-App/C:\\git\\School-App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/home/engsoha/Downloads/School-App/C:\\git\\School-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\clients.png",
+        "source": "/home/engsoha/Downloads/School-App/C:\\git\\School-App\\app\\src\\main\\res\\drawable\\clients.png"
+    },
+    {
+        "merged": "/home/engsoha/Downloads/School-App/C:\\git\\School-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\linkedin.png",
+        "source": "/home/engsoha/Downloads/School-App/C:\\git\\School-App\\app\\src\\main\\res\\drawable\\linkedin.png"
+    },
+    {
+        "merged": "/home/engsoha/Downloads/School-App/C:\\git\\School-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "/home/engsoha/Downloads/School-App/C:\\git\\School-App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    }
+]

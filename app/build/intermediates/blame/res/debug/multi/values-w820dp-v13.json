@@ -1,0 +1,74 @@
+[
+    {
+        "outputFile": "/home/engsoha/Downloads/School-App/D:\\MAL\\SchoolManagement\\app\\build\\intermediates\\res\\merged\\debug\\values-w820dp-v13\\values-w820dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "/home/engsoha/Downloads/School-App/D:\\MAL\\SchoolManagement\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 310,
+                        "endColumn": 57,
+                        "endOffset": 363
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/home/engsoha/Downloads/School-App/app/build/intermediates/res/merged/debug/values-w820dp-v13/values-w820dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "/home/engsoha/Downloads/School-App/app/src/main/res/values-w820dp/dimens.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 310,
+                        "endColumn": 57,
+                        "endOffset": 363
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/home/engsoha/Downloads/School-App/C:\\git\\School-App\\app\\build\\intermediates\\res\\merged\\debug\\values-w820dp-v13\\values-w820dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "/home/engsoha/Downloads/School-App/C:\\git\\School-App\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 310,
+                        "endColumn": 57,
+                        "endOffset": 363
+                    }
+                }
+            }
+        ]
+    }
+]

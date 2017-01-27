@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/myLayout"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:stretchColumns="0" >
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Student Name" />
+
+        <EditText
+            android:id="@+id/editName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:inputType="text" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="ID Number" />
+
+        <EditText
+            android:id="@+id/editRollno"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:inputType="number" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Class" />
+
+        <EditText
+            android:id="@+id/editMarks"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:inputType="text" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Student Type" />
+
+        <Spinner
+            android:id="@+id/spinner2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+    <CheckBox
+        android:id="@+id/chid"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:enabled="true"
+        android:text="Special Case"
+        android:textSize="20px" />
+
+    <RadioGroup
+        android:id="@+id/musicRadioGroup"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp" >
+
+        <RadioButton
+            android:id="@+id/rdid"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Parent"
+            android:textSize="18sp" />
+
+        <RadioButton
+            android:id="@+id/rdname"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Driver"
+            android:textSize="18sp" />
+    </RadioGroup>
+
+    <LinearLayout
+        android:id="@+id/lin1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:orientation="horizontal"
+        android:visibility="invisible" >
+
+        <TextView
+            android:id="@+id/prname"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Parent Name :" />
+
+        <EditText
+            android:id="@+id/editprname"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:inputType="text" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lin2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:orientation="horizontal"
+        android:visibility="invisible" >
+
+        <TextView
+            android:id="@+id/prphone"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Parent Phone Number :" />
+
+        <EditText
+            android:id="@+id/editphone"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:inputType="number" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lin3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:orientation="horizontal"
+        android:visibility="invisible" >
+
+        <TextView
+            android:id="@+id/buseid"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Bus Number :" />
+
+        <EditText
+            android:id="@+id/editbus"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:inputType="text" />
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/btnAdd"
+        android:layout_width="100dp"
+        android:layout_height="40dp"
+        android:layout_marginLeft="10dp"
+        android:text="Add" />
+
+    <EditText
+        android:id="@+id/editcase"
+        android:layout_width="5dp"
+        android:layout_height="5dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="10dp"
+        android:inputType="text"
+        android:text="yes"
+        android:visibility="invisible" />
+
+    <EditText
+        android:id="@+id/drivname"
+        android:layout_width="5dp"
+        android:layout_height="5dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="10dp"
+        android:inputType="text"
+        android:text="yes"
+        android:visibility="invisible" />
+
+    <TextView
+        android:id="@+id/drvnumber"
+        android:layout_width="5dp"
+        android:layout_height="5dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="10dp"
+        android:visibility="invisible" />
+
+</LinearLayout>

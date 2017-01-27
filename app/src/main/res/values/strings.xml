@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">"Green Heights School"</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">About</string>
+    <string name="title_activity_student">Add New</string>
+    <string name="student_name">student Name :</string>
+    <string name="title_activity_view">View</string>
+    <string name="title_activity_test">Test</string>
+    <string name="title_activity_update">Update</string>
+    <string name="title_activity_delete">Delete</string>
+
+</resources>
